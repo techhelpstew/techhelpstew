@@ -1,0 +1,891 @@
+/*
+
+Base CSS for everything.
+
+Originally was a common file between the app and the community, but now they've gone their separate ways.
+
+Spiceworks Orange:#fe5200
+Spiceworks Light Orange:#fff6f2
+
+*/
+
+
+body{
+  font:62.5% Arial, Sans-Serif;
+  color:#333;
+  padding:0;
+  margin:0;
+  border-top:5px solid #3e3e3e;
+  background:#fff;
+}
+
+/* Basic, generic styles
+*****************************************************************/
+p{
+  margin: 0;
+  padding: 0;
+}
+a{
+  color:#000;
+  font-weight:bold;
+  text-decoration:none;
+  outline:none;
+}
+#header a, #footer a, #toolbar a, #navigation a, #sidebar a{
+  /* Everything but #content */
+  font-weight:normal;
+  text-decoration:underline;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+a.help{
+  color:#000;
+  font-weight:normal;
+  text-decoration:underline;
+}
+a.help:hover{
+  color:#fe5200!important;
+  font-weight:normal!important;
+  text-decoration:underline!important;
+}
+
+a.help_icon{
+  background: transparent url(//static.spiceworks.com/assets/icons/small/help.png) no-repeat center right;
+  padding: 3px 20px 3px 0;
+}
+h1, h2, h3, h4, h5{
+  font-weight:normal;
+}
+
+h4{
+  font-size:14px;
+  font-weight:bold;
+}
+h3{
+  font-size:15px;
+  font-weight:bold;
+  margin:20px 10px 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+fieldset{
+  border:1px solid #ccc;
+}
+fieldset legend{
+  color:#444;
+  font-weight:bold;
+}
+
+.highlight{
+  background-color:#ffc;
+}
+.warning{
+  color:#eab600;
+}
+.error, .err{
+  color:#933;
+  font-weight:bold
+}
+.clearfix-left{
+  clear:left;
+}
+.clearfix-both{
+  clear:both;
+}
+input.text, textarea, select, input.editor_field, input.file{
+  font-size:1em;
+  padding:2px;
+  font-family:Arial, sans-serif;
+  color:#444;
+  line-height:1.25;
+  border-top:1px solid #7c7c7c;
+  border-left:1px solid #c3c3c3;
+  border-right:1px solid #c3c3c3;
+  border-bottom:1px solid #ddd;
+  background:#fff url(//static.spiceworks.com/assets/forms/fieldbg.gif) repeat-x top;
+}
+input.init, textarea.init, select.init{
+  color:#999;
+}
+input.error, textarea.error, select.error, .fieldWithErrors input, .fieldWithErrors textarea, .fieldWithErrors select{
+  border:1px solid #f00;
+  color:#444;
+  font-weight:normal;
+}
+input.readonly, input.disabled, select.readonly, select.disabled, textarea.readonly, textarea.disabled{
+  background:#ebebeb;
+  color:#666;
+}
+p.btn{
+  height:20px;
+}
+p.btn input.image_button{
+  vertical-align:baseline;
+  /* see hacks.ie6.css */
+}
+a.image_button img{
+  border:0;
+}
+.stripe0{
+  background-color:#fff;
+}
+.stripe1{
+  background-color:#ddd;
+}
+.center{
+  text-align:center;
+}
+.right{
+  text-align:right;
+}
+li{
+  list-style:none;
+}
+/* from http://users.tkk.fi/~tkarvine/pre-wrap-css3-mozilla-opera-ie.html */
+pre.wrap{
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+/* Error pages
+*****************************************************************************/
+body.server_error{
+  background:#eee;
+  font-size:82.5%;
+}
+
+body.server_error #header h1 a{
+  float:none;
+}
+
+body.server_error h1{
+  margin:0 0 10px;
+  padding:0;
+  clear:both;
+}
+
+body.server_error #error_content{
+  width:600px;
+  padding:20px 0 50px;
+  margin:0 auto;
+}
+body.server_error #error_content p{
+  line-height:1.333333;
+  margin:0 0 1.5em;
+}
+
+body.server_error #error_content h1{
+  font-size:1.5em;
+  font-weight:bold;
+  margin:0 0 1em;
+}
+
+body.server_error #error_content li{
+  margin:0 0 0.5em;
+}
+
+body.server_error #container{
+  padding:20px;
+  border-right:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+  border-left:1px solid #ccc;
+}
+
+body.server_error ul li{
+  list-style-type:disc;
+}
+
+body.server_error li{
+  list-style:decimal;
+}
+
+body.server_error p.detail{
+  font-size:0.8em;
+  margin:0 0 0 20px;
+}
+
+body.server_error #error_content a{
+  text-decoration:none;
+  font-weight:normal;
+  color:#2080ad;
+}
+body.server_error #error_content a:visited{
+  color:#ad61ad;
+}
+body.server_error #error_content a:hover{
+  text-decoration:underline;
+}
+
+body.server_error p.verification_email_address{
+  background:transparent url(//static.spiceworks.com/assets/community/icons/toolbar/envelope.png) left center no-repeat;
+  padding-left:20px;
+  color:#333;
+  font-weight:bold;
+}
+body.not_found_error {
+  border-top-color: #fe5200;
+}
+body.not_found_error #container {
+  width: 900px;
+}
+body.not_found_error #container #logo {
+  margin: 10px 55px 0;
+}
+body.not_found_error #container #header {
+  margin-left: 450px;
+  overflow: hidden;
+  line-height: 1;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+body.not_found_error #container #header h2,
+body.not_found_error #container #header h1 {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+body.not_found_error #container #header h1 {
+  font-size: 90px;
+  float: left;
+}
+body.not_found_error #container #header h2 {
+  clear: both;
+  color: #fe5200;
+  font-size: 35px;
+}
+body.not_found_error #container #header div.subtext {
+  float: left;
+  font-size: 36px;
+  color: #969696;
+  text-transform: uppercase;
+  padding: 12px 0 0 10px;
+}
+body.not_found_error #container #header div.subtext span.top_line {
+  display: block;
+  font-size: 25px;
+  padding-bottom: 5px;
+}
+body.not_found_error #container div.search_wrapper {
+  position: relative;
+  width: 845px;
+  height: 380px;
+}
+body.not_found_error #container div.search_wrapper input.text {
+  position: absolute;
+  right: 16px;
+  bottom: 35px;
+  font-size: 20px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  width: 364px;
+  z-index: 1;
+  border: 1px solid #ccc;
+  height: 30px;
+  padding: 0 37px 0 5px;
+  background: #fff;
+}
+body.not_found_error #container div.search_wrapper input.init {
+  color: #aaa;
+  font-style: italic;
+}
+body.not_found_error #container div.search_wrapper input[type="submit"] {
+  background: #fff url(//static.spiceworks.com/assets/forms/gray_search_on_white.png) 5px center no-repeat;
+  text-indent: -1000em;
+  width: 35px;
+  height: 30px;
+  position: absolute;
+  z-index: 2;
+  right: 18px;
+  bottom: 36px;
+  border: 0;
+  color: #fff;
+  font-size: 0;
+}
+body.not_found_error #container div.ending_message {
+  font-size: 1.8em;
+  line-height: 1.4;
+  color: #676767;
+  width: 445px;
+  text-align: center;
+  margin-left: 403px;
+  padding: 10px 0;
+}
+body.not_found_error #container div.ending_message a {
+  font-weight: normal;
+  color: #2080ad;
+}
+
+/* Layout styles
+*****************************************************************************/
+#container, #footer{
+  width:1186px;
+  font-size:1em;
+  margin:0 auto;
+  /* see hacks.ie.css */
+}
+body.narrow #container,
+body.narrow #footer{
+  width:1040px;
+}
+#container{
+  background:#fff;
+  position:relative;
+}
+
+#header{
+  /* see hacks.ie.css */
+}
+
+#content_wrapper{
+  border:1px outset #777792;
+  clear:both;
+  font-size:1.2em;
+  position:relative;
+  float:left;
+  background:#fff url(//static.spiceworks.com/assets/layout/single-column.png) repeat-y top left;
+  background-position:-10px top;
+  /* see hacks.ie.css */
+}
+
+#content_inner{
+  border:1px inset #777792;
+  float:left;
+  min-height:600px;
+  /* see hacks.ie.css */
+}
+
+#navigation{
+  width:149px;
+  float:left;
+  padding:5px 0 0;
+}
+
+#content{
+  width:700px;
+  float:left;
+  padding:15px 12px 10px 10px;
+}
+body.narrow #content{ padding-left:6px; padding-right:6px; }
+#sidebar{
+  float:right;
+  display:inline;
+  width:300px;
+  margin:15px 10px 5px 0;
+  background:#fff;
+}
+body.narrow #sidebar{ margin-right:8px; width:298px; }
+
+#sidebar #adbox, #sidebar #sidebar_box {
+  overflow:hidden!important;
+  margin:0;
+  padding:0;
+  width:300px;
+}
+
+#sidebar #adbox #gsidebar, #sidebar #sidebar_box #gsidebar {
+  height:728px;
+  width:300px;
+  overflow-y:hidden;
+  z-index:100;
+  margin:0;
+  padding:0;
+}
+
+body.narrow #sidebar,
+body.narrow #sidebar #adbox,
+body.narrow #sidebar #adbox #gsidebar,
+body.narrow #sidebar #sidebar_box,
+body.narrow #sidebar #sidebar_box #gsidebar{
+  width:160px;
+}
+
+#footer{
+  clear:both;
+  background:transparent;
+}
+
+/* Header children styles
+*****************************************************************************/
+#header .nav_wrapper{
+  background:transparent url(//static.spiceworks.com/assets/layout/header_nav_right_dark.png) no-repeat bottom right;
+  float:right;
+  padding:0 30px 0 0;
+}
+body.narrow #header .nav_wrapper{
+  padding-right:10px;
+}
+#header ul{
+  padding:0 10px 0 70px;
+  float:right;
+  margin:0;
+  list-style-type:none;
+  background:#3e3e3e url(//static.spiceworks.com/assets/layout/header_nav_left_dark.png) no-repeat bottom left;
+  text-align:right;
+}
+#header ul li{ display:inline; }
+#header ul li a{
+  display:block;
+  float:left;
+  padding:0 7px;
+  margin:0 0 2px 0;
+  border-right:1px solid #fff;
+  color:#fff;
+  font-size:1.2em;
+  text-decoration:none;
+}
+#header ul li a:hover{ text-decoration:underline; }
+#header ul li.last a{
+  padding-right:0;
+  border-right:0;
+}
+#header ul li.unread_messages a span{
+  background:transparent url(//static.spiceworks.com/assets/community/icons/toolbar/envelope.png) left center no-repeat;
+  padding-left:19px;
+}
+#header ul li.help a.selected, #header ul li.help a:hover.selected{
+  background-position:center left;
+  cursor:auto;
+}
+#header div.inner{
+  padding:0 10px 0 3px;
+  clear:right;
+}
+#header div.logo{
+  width:150px;
+  float:left;
+}
+#header div.logo a{
+  border:0;
+  display:block;
+  float:left;
+  text-decoration:none;
+}
+#header div.logo a img{ border:0; }
+
+/* Spicemeter
+************************************************************/
+a#current_spicemeter{
+  display:block;
+  width:147px;
+  height:32px;
+  float:right;
+  clear:right;
+  margin:10px 60px 5px;
+  background:transparent url(//static.spiceworks.com/assets/spicemeter/scores/0.png) no-repeat top left;
+  z-index:100;
+}
+body.narrow a#current_spicemeter{
+  margin-right:5px;
+}
+
+a#current_spicemeter span{ display:none; }
+
+/* Navigation styles
+*****************************************************************************/
+#navigation p{ padding:0 5px; }
+
+#navigation dl, #navigation dl dt, #navigation dl dd{
+  margin:0;
+  padding:0;
+  position:relative;
+}
+#navigation dl{
+  margin:0 1px 10px 0;
+}
+#navigation dl dt{
+  font-weight:bold;
+}
+#navigation dl dt a,
+#navigation dl dd a{
+  display:block;
+  color:#000;
+  text-decoration:none;
+  outline:none;
+  overflow:hidden;
+  padding:3px 10px 3px 24px;
+}
+#navigation dl dt a{
+  font-weight:bold;
+  padding-left:0;
+}
+#navigation dl dt span{
+  display:block;
+  background:transparent 4px center no-repeat;
+  padding:3px 0 3px 24px;
+}
+
+#navigation dl dd a span.new{
+  background:transparent;
+  position:absolute;
+  color:red;
+  font-size:10px;
+  margin:-3px 0 0;
+  right:2px;
+}
+#navigation dl dd a:hover span.new{ text-decoration:none!important; }
+
+#navigation dl.dashboard span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/swoosh.png)
+}
+#navigation dl.my_network span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/network.png)
+}
+#navigation dl.community span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/community.png)
+}
+#navigation dl.help span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/help.png)
+}
+#navigation dl.my_stuff span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/applications.png)
+}
+
+#navigation dl.dashboard dt.current span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/swoosh_dark.png)
+}
+#navigation dl.my_network dt.current span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/network.png)
+}
+#navigation dl.community dt.current span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/community_dark.png)
+}
+#navigation dl.help dt.current span{
+  background-image:url(//static.spiceworks.com/assets/icons/navigation/help_dark.png)
+}
+
+#navigation dl.toggleable dt{
+  padding-left:20px;
+  padding-right:20px;
+  background:transparent url(//static.spiceworks.com/assets/icons/indicators/toggle2_blue.png) no-repeat center left;
+  background-position:5px center;
+  cursor:pointer;
+}
+#navigation dl dd{
+  display:block;
+  padding:1px 0;
+}
+#navigation dl dd a.meta{
+  display:inline;
+  padding:0;
+}
+#navigation dl dd a:hover,
+#navigation dl dt a:hover{
+  text-decoration:underline;
+}
+#navigation dl dd.current,
+#navigation dl dt.current{
+  background:#7692a3 url(//static.spiceworks.com/assets/layout/gradients/nav_current.png) repeat-x top left;
+  border-left:0;
+  border-right:0;
+  padding:0;
+}
+#navigation dl dt.current{
+  padding:0;
+}
+#navigation dl dd.current a, #navigation dl dt.current a{ color:#fff; }
+#navigation dl dd.current a, #navigation dl dd.current a:hover, #navigation dl dt.current a{
+}
+#navigation dl.closed dt{ background-image:url(//static.spiceworks.com/assets/icons/indicators/toggle1_blue.png); }
+#navigation dl.closed dd{ display:none; }
+
+#navigation_closeout{
+  padding:70px 0 0;
+}
+#navigation_closeout p{
+  padding:0;
+  margin:0;
+  color:#444;
+  font-size:10px;
+}
+#navigation_closeout #sponsored_block div.wrapper{
+  padding:8px 5px 0;
+  background:transparent;
+  text-align:center;
+}
+#navigation_closeout #sponsored_block div.wrapper h4{
+  font-weight:normal;
+  font-size:1em;
+  color:#444;
+  padding:0;
+  margin:0;
+}
+#navigation_closeout #sponsored_block div.wrapper p{ padding:10px 0; }
+#navigation_closeout #sponsored_block a img{ border:0; }
+
+/* my stuff section of navigation
+*********************************************************************************************************/
+#navigation dl.my_stuff{ margin-bottom:0; }
+#navigation dl.customize dt{ display:none; }
+#navigation dl.my_stuff dd{ position:relative; }
+#navigation dl.my_stuff dd a.meta{
+  position:absolute;
+  margin:1px 0 0 0;
+  right:5px;
+  background:transparent none no-repeat center left;
+  width:16px;
+  height:16px;
+  text-indent:-9999px;
+  outline:none;
+  display:none;
+}
+#navigation dl.customize dd.add a span{
+  font-size:10px;
+  text-decoration:underline;
+}
+
+/* Footer children styles
+*****************************************************************************/
+#footer p{
+  margin:0;
+  padding:5px 0 0;
+}
+#footer p a, p.copy a{
+  text-decoration:none;
+  color:inherit;
+}
+#footer p a:hover{
+  text-decoration:underline;
+}
+
+/* Styles for forms
+**********************************************************************************/
+form{
+  margin:0;
+  padding:0;
+}
+form.simple{
+}
+form.simple p{
+  clear:left;
+}
+form.simple p{
+}
+form.simple div.inset{
+  padding:0px 0 0px 20px;
+}
+form.standard p{
+  width:430px;
+}
+form.standard p input.text{
+  width:190px;
+}
+form.standard p select{
+  width:196px;
+}
+form.standard p.with_error, form.standard p.btn, form.standard p.non, form.standard p.wide{
+  width:auto;
+}
+form.standard p.with_error input, form.simple p.with_error input, form.simple p.with_error select, form.simple p.with_error textarea, span.with_error{
+  border:1px solid #f00;
+}
+form.simple p label, form.simple p.no_label strong, div.pseudo_form p label{
+  display:block;
+  float:left;
+  width:6em;
+  text-align:left;
+  padding:5px 3px 0 0;
+  font-weight:bold;
+}
+form.simple p.no_label strong{
+  position:relative;
+  top:-5px;
+}
+form.simple p.check, form.simple p.help{
+  margin:0;
+  padding-left:6em;
+
+  /* there is some margin on the paragraph above this element, we need to push it up a little closer */
+  position:relative;
+  top:-10px;
+}
+form.simple p.natural{
+  padding-left:0;
+  position:static;
+  top:0;
+}
+form p span.meta, div.pseudo_form p span.meta{
+  display:block;
+  clear:left;
+  padding:3px 0 0;
+}
+form.simple p.with_checkbox label{
+  padding-right:0;
+  padding-top:2px;
+}
+form.simple p.check label, form.simple p label.secondary, div.pseudo_form p label.secondary{
+  display:inline;
+  float:none;
+  padding:0;
+}
+form.standard p label{
+  width:200px;
+}
+form.simple p label.secondary, div.pseudo_form p label.secondary{
+  font-weight:normal;
+}
+form.standard p label, div.pseudo_form p label{ width:200px; }
+div.pseudo_form p.no_input span.alt{
+  position:relative;
+  top:5px;
+}
+form.standard p.with_checkbox label, div.pseudo_form p.with_checkbox label{
+  padding-right:0px;
+  margin-right:-1px;
+}
+form.standard p.with_checkbox input, div.pseudo_form p.with_checkbox input{
+  position:relative;
+  top:1px;
+  /* see hacks.ie.css */
+}
+form.small p label, form.small p.no_label strong{
+  width:4em;
+}
+form.small p.check, form.small p.help{
+  padding-left:4em;
+}
+form.medium p label, form.medium p.no_label strong{
+  width:8em;
+}
+form.medium p.check, form.medium p.help{
+  padding-left:8em;
+}
+form.large p label, form.large p.no_label label, form.large p.with_checkbox label{
+  width:12em;
+}
+form.large p.check, form.large p.help{
+  padding-left:12em;
+}
+form.xlarge p label, form.xlarge p.no_label label{
+  width:15em;
+}
+form.xlarge p.check, form.large p.help{
+  padding-left:15em;
+}
+form.simple p label.secondary{
+  display:inline;
+  float:none;
+  width:auto;
+  padding:0;
+  font-weight:normal;
+}
+form.standard p, div.pseudo_form p{
+  padding:2px 0;
+  margin:0;
+  color:#000;
+}
+form.standard p.non{
+  border:0;
+}
+form.simple p textarea{
+  width:30em;
+  height:10em;
+}
+form.standard p.help{
+  clear:left;
+  padding:10px 0;
+  position:static;
+  top:0;
+  width:auto;
+}
+form.simple p.btn{
+  margin:0;
+  padding:0;
+}
+form.small p.btn{
+  margin:0 0 0 4em;
+}
+form.simple p.btn input.image_button{
+}
+form.standard p.btn{
+  border:0;
+  padding:5px 0;
+}
+form.standard p.btn em.highlight, p.table_actions em.highlight{
+  position:relative;
+  top:-4px;
+}
+form.inline p label{
+  display:inline;
+  float:none;
+}
+form.inline p input{
+  display:inline;
+}
+
+/* Lightbox-type styles
+*****************************************************************/
+.darkbox, .lightbox{
+  position:absolute;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+  z-index:500;
+  /* see hacks.ie6.css and hacks.ie.css */
+}
+.darkbox{
+  background:#000;
+  opacity:0.4;
+  filter:alpha(opacity=40);
+}
+.lightbox div.content{
+  width:450px;
+  background:#fff;
+  border:1px solid #fe5200;
+  margin-top:100px;
+  margin-bottom:auto;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+  font-size:1.3em;
+  text-align:center;
+}
+.lightbox div.content.no-border{
+  border:0px none transparent;
+}
+#lightbox_delete_attributes div{
+  margin-top:250px;
+}
+.lightbox div a.close{
+  display:block;
+  float:right;
+  text-indent:-9999px;
+  background:transparent url(//static.spiceworks.com/assets/icons/round_close.png) no-repeat top left;
+  width:16px;
+  height:16px;
+  outline:none;
+}
+.lightbox div h1{
+  font-size:1.3em;
+}
+.lightbox div h2{
+  font-weight:bold;
+}
+
+/* No ads mode
+*****************************************************************************/
+body.no_ads #content{
+  width:1010px;
+}
+
+/* Contained-float (please don't use this anymore)
+*****************************************************************************/
+.contained-float { overflow: auto; }
+
+label.email_type {
+  font-weight: bold;
+}
+label.email_description {
+  margin-left: 24px;
+  display: block;
+  color: #888888;
+}

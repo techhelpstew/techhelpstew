@@ -1,0 +1,1130 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Technical Support Engineer Web, Desktop, Laptop, OS.</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO -->
+    <meta name="author" content="Stewart Yanez">
+    <meta name="description" content="Technical support for website design development for business.Marketing and e-commerce plans available." />
+    <meta name="keywords" content="custom website design in Whittier, custom website design in USA, custom website design in Whittier California, affordable website design 90601, affordable website design Workman Mill and Beverly Whittier, affordable e-commerce developement Whittier, affordable online store Whittier, web development business in Whittier California, web developer Whittier, web development business in USA, web development business Uptown Whittier, ecommerce website development chamber of whittier, ecommerce website development Stewart Yanez, ecommerce website development techhelpstew, ecommerce website development support services" />
+    <link rel="canonical" href="http://www.techhelpstew.com">
+    <meta name="alexaVerifyID" content="f1-aMi-OWHpwEfdisdUBFULCY-c"/>
+    <meta name="MOZ" content="INDEX,FOLLOW"
+    <meta name="robots" content="index,follow">
+    <meta name="GOOGLEBOT" content="INDEX,FOLLOW">
+    <link rel="shortcut icon" href="/images/favicon.png" />
+    <link rel="apple-touch-icon" href="/images/favicon.png" />
+    <!-- Social: Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@techhelpstew">
+    <meta name="twitter:creator" content="@techhelpstew">
+    <meta name="twitter:title" content="TechHelpStew - Web Designer Developer">
+    <meta name="twitter:description" content="Always happy to point you in the right direction. Support Engineer">
+    <meta name="twitter:image:src" content="">
+
+    <!-- Social: Facebook / Open Graph -->
+    <meta property="og:url" content="http://www.facebook.com/techhelpstew">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Support Engineer">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="Support Specialist">
+    <meta property="og:site_name" content="Techhelpstew Support Engineer">
+    <meta property="article:author" content="https://www.facebook.com/techhelpstew">
+    <meta property="article:publisher" content="https://www.facebook.com/techhelpstew">
+
+    <link rel="author" href="https://plus.google.com/+StewY/">
+    <link rel="publisher" href="https://plus.google.com/+StewY/">
+    <meta itemprop="name" content="TechHelpStew - Web Designer Developer">
+    <meta itemprop="description" content="Support Specialist always happy to be of assistance.">
+    <meta itemprop="image" content="">
+
+    <link rel="stylesheet" href="/css/reset.css" />
+    <link href="/css/whhg.css" rel="stylesheet" />
+    <link href="/css/social-icon.css" rel="stylesheet" />
+    <link href="/css/small-icon.css" rel="stylesheet" />
+    <link href="/css/maleo.css" rel="stylesheet" />
+    <link href="/css/fancybox.css" rel="stylesheet" />
+    <link href="/css/components/menu.css" rel="stylesheet" />
+    <link href="/js/rs-plugin/css/settings.css" rel="stylesheet" media="screen" />
+    <link href="/css/revolution-responsive.css" rel="stylesheet" media="screen" />
+    <link href="/css/theme/grass.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Noto+Serif:400italic' rel='stylesheet'>
+    <script src="/js/modernizr.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-72890815-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+       (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+          s1.async=true;
+          s1.src='https://embed.tawk.to/56df2cb98619eaf4200d233a/default';
+          s1.charset='UTF-8';
+          s1.setAttribute('crossorigin','*');
+          s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
+</head>
+<body>
+
+    <div id="mo-wrapper">
+        <header class="header3">
+            <div class="header-content">
+                <div class="row">
+                    <div class="large-5 medium-4 medium-potrait-4 small-12 columns logo-content">
+                        <div class="logo"><a href="/"> 
+                            <img src="/img/logo.png" alt="Logo" class="retina"> </a> 
+                        </div>
+                    </div>
+                   
+                    <div class="right">
+                        <div class="client-content small-hide">
+                            <ul>
+                                    <li><a class="login" href="javascript:void(0);"><i class="icon-star"></i>CALL | (562) 246-6304</a></li>
+                               
+                            </ul>
+                            <div class="login-panel">
+<form action="/Account" class="mo-animate animated fadeInLeft" method="post">                                    <div class="column new-customer">
+                                        <h5>Store Login</h5>
+                                        <p class="white-space-normal">New to techhelpstew? Create an account to get started today.</p>
+                                        <a data-pc-qry="#" title="Create My Account" class="button right green" id="" href="/store/index.php?controller=authentication">Create My Account</a>
+                                    </div>
+                                    <div style="float:left; margin-left:10px;">
+                                        <h5>Subscribe</h5>
+                                        
+                                            <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//teamait.us12.list-manage.com/subscribe/post?u=390e2be4534b1fe49ab2bfc7c&amp;id=009db932ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+    <label for="mce-FNAME">First Name </label>
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+    <label for="mce-LNAME">Last Name </label>
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_390e2be4534b1fe49ab2bfc7c_009db932ad" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+                                    </div>
+</form>                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="menu-content-wrapper">
+                <div class="row">
+                    <div class="large-12 columns">
+                        <nav class="menu-content">
+                            <ul id="menu" class="sm mo-menu">
+                                <li class="active"><a href="/">Home</a> </li>
+                                <li class="mega-menu">
+                                    <a href="javascript:void(0);">Web Design &amp; PC Repair</a>
+                                    <ul class="mega-menu">
+                                        <li>
+                                            <div class="mega-menu-content">
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Static Website</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>Suits Small Business</li>
+                                                        <li>Informative Website</li>
+                                                        <li>Up to 10 Pages</li>
+                                                        <li>jQuery Header</li>
+                                                        <li>Enquiry Form</li>
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                        <li><a href="#"> <img src="/img/static-website.png" /></a></li>
+                                                    </ul>
+
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Dynamic Website</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>Suits Medium Price</li>
+                                                        <li>Data Management</li>
+                                                        <li>Up to 10 &ndash; 20 Pages</li>
+                                                        <li>jQuery Header</li>
+                                                        <li>User Friendly Interface</li>
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                        <li><a href="#"> <img src="/img/dymanic-website.png" /></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">E &ndash; Commerce</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>Suits Online Business</li>
+                                                        <li>Shoping Cart</li>
+                                                        <li>Flash Banner</li>
+                                                        <li>Customizes Layout</li>
+                                                        <li>Payment Option Integration</li>
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                        <li><a href="#"> <img src="/img/e-commerce-website.png" /></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Desktop and Laptop Repair</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li><a href="#" target="_blank">Virus Removal</a></li>
+                                                        <li><a href="#" target="_blank">Backup and Recovery</a></li>
+                                                        <li><a href="#" target="_blank">Updates and Upgrades</a></li>
+                                                        <li><a href="#" target="_blank">Hardware and Software installation</a></li>
+                                                        <li><a href="#" target="_blank">Team Viewer support and training</a></li>
+                                                        <li><a href="#" target="_blank">Office Suite Support Troubleshooting</a></li>
+                                                        <li><a href="#" target="_blank">Cloud Management Solutions<img src="/img/software-development.png" /></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="mega-menu">
+                                    <a href="javascript:void(0);">VPS Support</a>
+                                    <ul class="mega-menu" style="width:600px !important; ">
+                                        <li>
+                                            <div class="mega-menu-content">
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Virtual Private Server</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li><a href="#">SSH Support</a></li>
+                                                        <li><a href="#">Maintenance Support</a></li>
+                                                        <li><a href="javascript:void(0);"> &nbsp; </a></li>
+                                                        <li><a href="#"> <img src="/img/domain.png" /></a></li>
+                                                    </ul>
+
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Site Migrations</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li><a href="#">Moving hosting provider?</a></li>
+                                                        <li class="sub-caption">Backup and transfer support available.</li>
+                                                        <li><a href="#">PrestaShop Support</a></li>
+                                                        <li class="sub-caption">Installation, Backups, Configuration.</li>
+                                                        <li><a href="#">Wordpress Support</a></li>
+                                                        <li class="sub-caption">Specializing using X-theme.</li>
+
+                                                    </ul>
+                                                </div>
+
+                                                <div class="large-3 medium-3 medium-potrait-12 columns">
+                                                    <div class="mega-menu-title">Let us handle the day to day server maintenance.</div>
+                                                    <div class="mega-menu-sub-content">
+
+                                                        <p style="font-size: 13px;line-height: 21px;">
+                                                            A lot of people think that once a server is configure that's it. Languages, packages are always being updated. Make sure your server doesn't get blacklisted by being outdated.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-12 columns">
+                                                    <div class="mega-menu-title">&nbsp;</div>
+                                                    <div class="mega-menu-sub-content">
+                                                        <img src="/img/domain-img.png" />
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="mega-menu">
+                                    <a href="javascript:void(0);">Digital Marketing</a>
+                                    <ul class="mega-menu">
+                                        <li>
+                                            <div class="mega-menu-content">
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">SEO <br />
+                                                    <span>Search Engine Optimization</span>
+                                                    </div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>GLOBAL SEO</li>
+                                                        <li>
+                                                            LOCAL SEO
+                                                        </li>
+                                                        <li>
+                                                            E-Commerce SEO
+                                                        </li>
+                                                        <li>
+                                                            DYNAMIC SEO
+                                                        </li>
+                                                        
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">SEM
+                                                    <br />
+                                                    <span>Search Engine Marketing</span>
+                                                    </div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>GOOGLE ADWORD</li>
+                                                        <li>
+                                                            BING ADWORD
+                                                        </li>
+                                                        <li>
+                                                            AD NETWORK CAMPAIGN
+                                                        </li>
+                                                        <li>
+                                                            REDIRECT CAMPAIGN
+                                                        </li>
+                                                       
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">SMM
+                                                    <br />
+                                                    <span>Social Media Marketing</span>
+                                                    </div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>SOCIAL MARKETING</li>
+                                                        <li>
+                                                            VIDEO MARKETING
+                                                        </li>
+                                                        <li>
+                                                            PDF SHARE
+                                                        </li>
+                                                        <li>
+                                                            PPT SHARE
+                                                        </li>
+                                                        
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">OTHERS</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>EMAIL MARKETING</li>
+                                                        <li>
+                                                            CONTENT MARKETING
+                                                        </li>
+                                                        <li>
+                                                            SMS MARKETING
+                                                        </li>
+                                                        <li>
+                                                            AFFILIATE MARKETING
+                                                        </li>
+                                                       
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="mega-menu">
+                                    <a href="javascript:void(0);">Ubuntu &amp; Tools </a>
+                                    <ul class="mega-menu">
+                                        <li>
+                                            <div class="mega-menu-content">
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Ubuntu Desktop</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>Ubuntu Desktop</li>
+                                                        <li class="sub-caption">Learn how the Ubuntu desktop operating system powers millions of PCs and laptops around the world.</li>
+                                                        <li>Features</li>
+                                                        <li class="sub-caption">Enjoy the simplicity of Ubuntu’s intuitive interface. Fast, secure and with thousands of apps to choose from — for everything you want to do, Ubuntu has what you need.</li>
+                                                        <li>A world of apps</li>
+                                                        <li class="sub-caption">Ubuntu offers thousands of apps available for download from the software centre. Most are available for free and can be installed with just a few clicks.</li>
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Ubuntu Server</div>
+                                                    <ul class="mega-menu-list">
+                                                        <li>Scale out with Ubuntu Server</li>
+                                                        <li class="sub-caption">The leading platform for scale-out computing, Ubuntu Server help you make the most of your infrastructure. Whether you want to deploy an OpenStack cloud, a Hadoop cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.</li>
+                                                        <li>Server Management</li>
+                                                        <li class="sub-caption">Get peace of mind with our Ubuntu VPS support: Cost effective systems management and professional support.</li>
+                                                        <li>Ubuntu leads in hyperscale</li>
+                                                        <li class="sub-caption">Ubuntu is the hyperscale OS, natively powering scale-out workloads on a new wave of low-cost, ultra-dense hardware based on x86 and ARM processors.</li>
+                                                        <li>No end-user license fee</li>
+                                                        <li class="sub-caption"> Ubuntu is offer free to end users. Adding more nodes shouldn't require you to pay another 100 times for the OS!.
+                                                        
+                                                        <li><a href="#">&raquo; More..</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-12 columns">
+                                                    <div class="mega-menu-title">Support Engineer</div>
+                                                    <div class="mega-menu-sub-content">
+
+                                                        <p style="font-size: 13px;line-height: 21px;">
+                                                            Providing support since Apple II and Windows 3.1. Hardware and Software Support. A+ Certified<br>Network Infrastructure and Web Development Support since 1997 Microsoft FrontPage. Network +
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">&nbsp;</div>
+                                                    <div class="mega-menu-sub-content">
+
+                                                        <img src="/img/about-us.png" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Apps</a> </li>
+                                <li class="mega-menu"><a href="http://www.techhelpstew.com/store">Store</a> </li>
+                                <li class="mega-menu">
+                                   <a href="javascript:void(0);">About Us </a>
+                                    <ul class="mega-menu">
+                                        <li>
+                                            <div class="mega-menu-content">
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">About Us </div>
+                                                    <ul class="mega-menu-list">
+                                                        <li><a href="#">About Us</a></li>
+                                                        <li><a href="#">Portfolio (Website)</a></li>
+                                                        <li><a href="#">Portfolio (Logo)</a></li>
+                                                        <li><a href="#">Technology</a></li>
+                                                        <li><a href="#">Blog</a></li>
+                                                        <li><a href="#">Career</a></li>
+                                                        <li><a href="#">Enquiry</a></li>
+                                                        <li><a href="#">News</a></li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">Get in Touch </div>
+                                                    <ul class="mega-menu-list">
+                                                        <li><a href="#">Franchise</a></li>
+                                                        <li><a href="#">Feedback</a></li>
+                                                        <li><a href="#">Testimonials</a></li>
+                                                        <li><a href="#">Contact Us</a></li>
+                                                        <li><a href="#">Support</a></li>
+                                                        <li><a href="#">Complain</a></li>
+                                                        <li><a href="#">FAQ</a></li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-12 columns">
+                                                    <div class="mega-menu-title">Support Engineer</div>
+                                                    <div class="mega-menu-sub-content">
+
+                                                        <p style="font-size: 13px;line-height: 21px;">
+                                                            Providing support since Apple II and Windows 3.1. Hardware and Software Support. A+ Certified<br>Network Infrastructure and Web Development support since 1997 Microsoft FrontPage. Network +<br>Now it's all about Ubuntu Desktop.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="large-3 medium-3 medium-potrait-4 columns">
+                                                    <div class="mega-menu-title">&nbsp;</div>
+                                                    <div class="mega-menu-sub-content">
+
+                                                        <img src="/img/about-us.png" />
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="mo-contentfull" id="slider-wrapper">
+            <div class="banner">
+                <ul>
+                    <!-- slide 0 -->
+                    <li data-transition="fade" data-slotamount="7" data-masterspeed="1500">
+                        <img class="slider3-bg" src="/img/slideshow/image1-bg.png" alt="" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        
+                        <div class="tp-caption lfb"
+                             data-x="500"
+                             data-y="40"
+                             data-start="1000"
+                             data-speed="2000"
+                             data-easing="Power4.easeOut"><img src="/img/slider/bfa7.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="580"
+                             data-y="230"
+                             data-speed="2000"
+                             data-start="1500"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa4.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="660"
+                             data-y="40"
+                             data-speed="2000"
+                             data-start="2000"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa5.png" alt=""></div>
+                        <div class="tp-caption lft"
+                             data-x="740"
+                             data-y="230"
+                             data-speed="2000"
+                             data-start="2500"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa1.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="820"
+                             data-y="40"
+                             data-speed="2000"
+                             data-start="3000"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa6.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="900"
+                             data-y="230"
+                             data-speed="2000"
+                             data-start="3500"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa2.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="980"
+                             data-y="40"
+                             data-speed="2000"
+                             data-start="4000"
+                             data-easing="Power4.easeOut"
+                             data-endeasing="Power1.easeIn"><img src="/img/slider/bfa3.png" alt=""></div>
+                                                
+                        <!-- heading caption slider 3 -->
+                        <div class="tp-caption lft lft slider3-caption1"
+                             data-x="30"
+                             data-y="166"
+                             data-speed="900"
+                             data-start="1000"
+                             data-easing="easeOutExpo"
+                             data-endeasing="easeInExpo">
+                            <h2 class="uppercase">Business Solution</h2>
+                        </div>
+                        <div class="tp-caption lfb lfb slider3-caption2"
+                             data-x="30"
+                             data-y="210"
+                             data-speed="900"
+                             data-start="1500"
+                             data-easing="easeOutExpo"
+                             data-endeasing="easeInExpo">
+                            <h1 class="uppercase maleo-color mega">For All</h1>
+                        </div>
+                        
+                    </li>
+                    
+                        <!-- slide 1 -->
+                
+                    
+                    <li data-transition="fade" data-slotamount="7" data-masterspeed="1000">
+                        <img class="slider1-bg" src="/img/slider/7.jpg" alt="" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+                        <div class="tp-caption lft lft slider3-caption1"
+                             data-x="30"
+                             data-y="166"
+                             data-speed="900"
+                             data-start="500"
+                             data-easing="easeOutExpo"
+                             data-endeasing="easeInExpo">
+                            <h2 style="color:#fff;">Responsive <br />To All Device</h2>
+                        </div>
+                       
+                    </li>
+
+                    <li data-transition="fade" data-slotamount="7" data-masterspeed="1500">
+                        <img class="slider3-bg" src="img/slideshow/image1-bg.png" alt="" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <div class="tp-caption fade"
+                             data-x="-365"
+                             data-y="0"
+                             data-start="1500"
+                             data-speed="1200"
+                             data-easing="Power2.easeInOut"><img src="img/slideshow/image1-pattern.png" alt=""></div>
+                        <div class="tp-caption lfb"
+                             data-x="163"
+                             data-y="93"
+                             data-speed="2000"
+                             data-start="1300"
+                             data-easing="Power4.easeOut"
+                             data-endspeed="2000"
+                             data-endeasing="Power1.easeIn"><img src="img/slideshow/image1-phone1.png" alt=""></div>
+                        <div class="tp-caption customin"
+                             data-x="256"
+                             data-y="192"
+                             data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                             data-speed="800"
+                             data-start="2400"
+                             data-easing="Power3.easeIn"
+                             data-endspeed="450"><img src="img/slideshow/image1-phone2.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="390"
+                             data-y="390"
+                             data-speed="4000"
+                             data-start="2500"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle1.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="440"
+                             data-y="375"
+                             data-speed="4000"
+                             data-start="2700"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle2.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="420"
+                             data-y="350"
+                             data-speed="4000"
+                             data-start="2900"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle3.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="475"
+                             data-y="310"
+                             data-speed="4000"
+                             data-start="3100"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle4.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="425"
+                             data-y="270"
+                             data-speed="4000"
+                             data-start="3300"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle5.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="480"
+                             data-y="225"
+                             data-speed="4000"
+                             data-start="3500"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle6.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="430"
+                             data-y="145"
+                             data-speed="4000"
+                             data-start="3700"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle7.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="465"
+                             data-y="93"
+                             data-speed="4000"
+                             data-start="3900"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle8.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="400"
+                             data-y="50"
+                             data-speed="4000"
+                             data-start="4100"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle9.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="310"
+                             data-y="-25"
+                             data-speed="4000"
+                             data-start="4300"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle10.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="242"
+                             data-y="16"
+                             data-speed="4000"
+                             data-start="4500"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle11.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="142"
+                             data-y="5"
+                             data-speed="4000"
+                             data-start="4700"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle12.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="104"
+                             data-y="91"
+                             data-speed="4000"
+                             data-start="4900"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle13.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="30"
+                             data-y="148"
+                             data-speed="4000"
+                             data-start="5100"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle14.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="125"
+                             data-y="180"
+                             data-speed="4000"
+                             data-start="5300"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle15.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="108"
+                             data-y="252"
+                             data-speed="4000"
+                             data-start="5500"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle16.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="26"
+                             data-y="253"
+                             data-endspeed="1000"
+                             data-start="5700"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle17.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="52"
+                             data-y="300"
+                             data-speed="4000"
+                             data-start="5900"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle18.png" alt=""></div>
+                        <div class="tp-caption sft"
+                             data-x="85"
+                             data-y="380"
+                             data-speed="4000"
+                             data-start="6100"
+                             data-easing="easeOutElastic"
+                             data-endeasing="easeInExpo"><img src="img/slideshow/image1-circle19.png" alt=""></div>
+
+                        <!-- heading caption slider 1 -->
+                        <div class="tp-caption medium_light_white lfb ltb slider1-caption1"
+                             data-x="580"
+                             data-y="131"
+                             data-speed="900"
+                             data-start="3200"
+                             data-easing="easeOutExpo"
+                             data-endeasing="easeInExpo">
+                            <h2 class="uppercase">
+                                <span class="maleo-color">Experience</span> is what<br>
+                                made techhelpstew
+                            </h2>
+                        </div>
+                      
+                    </li>
+                       
+</ul>
+                <div class="tp-bannertimer"></div>
+            </div>
+        </section>
+        
+        <section class="mo-content light-gray" id="promo-home">
+            <div class="row">
+                <div class="large-3 medium-6 small-12 columns mo-animate" data-animate="bounceIn">
+                    <h2 style=" font-size: 32px; padding-top: 6px;"></h2>
+                    <p>
+                        Developers<br />& Designers
+                    </p>
+                </div>
+                <div class="large-3 medium-6 small-12 columns mo-animate" data-animate="bounceIn" data-delay="200">
+                    <h2 style=" font-size: 32px; padding-top: 6px;">65,000+</h2>
+                    <p>
+                        Projects <br>
+                        supported over time
+                    </p>
+                </div>
+                <div class="large-3 medium-6 small-12 columns mo-animate" data-animate="bounceIn" data-delay="400">
+                    <h2 style=" font-size: 32px; padding-top: 6px;">24/7/365</h2>
+                    <p>
+                       Help &<br>
+                        Support
+                    </p>
+                </div>
+                <div class="large-3 medium-6 small-12 columns mo-animate" data-animate="bounceIn" data-delay="600">
+                    <h2 style=" font-size: 32px; padding-top: 6px;">20</h2>
+                    <p>
+                        Years of <br>
+                        experience
+                    </p>
+                </div>
+            </div>
+        </section>
+        <section class="mo-content green-bg" id="service">
+            <div class="row">
+                <div class="large-12 columns text-center">
+                    <h4 class="title-service mo-animate" data-animate="fadeInDown">My experience covers various sectors</h4>
+                    <h6 class="sub-service mo-animate" data-animate="fadeInDown" data-delay="200"><span>I've learned much from some of the best and continue learning.</span></h6>
+                    <ul class="large-block-grid-4 medium-block-grid-4 medium-potrait-block-grid-2 no-gutter service-list">
+                        <li class="mo-animate" data-animate="fadeInDown">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1web-design-icon.png" alt="Img"></div>
+                                <h6>Web Design</h6>
+                                <p>For us, design determines the ‘wow’ factor – the look and feel, and how your business grows.</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="200">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1web-deve-icon.png" alt="Img"> </div>
+                                <h6>Web Development </h6>
+                                <p>Spend my time on the patio typing away either creating or problem solving coding issues. The sun is nice in Whittier, CA.</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="400">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1sem-icon.png" alt="Img"> </div>
+                                <h6>SEM </h6>
+                                <p>Focused on creating custom online marketing strategies to improve conversion and bottom line SALES.</p>
+                            </div>
+                        </li>
+                        
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="600">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1domain-booking-icon.png" alt="Img"> </div>
+                                <h6>Domain Booking </h6>
+                                <p>Consulation provided when needing to decide a domain name to register that will promote business.</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="1400">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1logo-design-icon.png" alt="Img"> </div>
+                                <h6>Logo Design</h6>
+                                <p>Your logo represents your brand. Trust our experienced logo designers and impress your customers!</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="1200">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/app.png" alt="Img"> </div>
+                                <h6>App Development</h6>
+                                <p>Web application software available. Created using modern web browser standards.</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="1000">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1seo-icon.png" alt="Img"> </div>
+                                <h6>SEO </h6>
+                                <p>Get high ranks on Google search results by engaging our SEO, SMM & PPC experts who swear by Google!</p>
+                            </div>
+                        </li>
+                        <li class="mo-animate" data-animate="fadeInDown" data-delay="800">
+                            <div class="feature">
+                                <div class="circle-bg"> <img class="img-shadow" src="/images/1ssl-icon.png" alt="Img"> </div>
+                                <h6>Secure SSL Certificates</h6>
+                                <p>If you want to gain the trust of your customers and visitors, you will need an SSL Certificate installed on your website.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section class="mo-content" id="feature">
+            <div class="row">
+                <div class="large-6 medium-6 medium-potrait-12 small-12 columns">
+                    <div class="feature-right mo-animate" data-animate="fadeInLeft">
+                        <div class="no-shape"> <img class="img-border dark img-circle img-shadow gap" data-top="30" src="/img/sample/left-service.jpg" alt="Real time Updates"> </div>
+                        <span class="heading-line"></span>
+                        <h3>Desktop and Laptop Support</h3>
+                        <p>Onsite support field engineer available for Los Angeles, County and Orange County. Supporting Windows, OS X, Ubuntu (lunix) Operating Systems. Online support available via teamviewer and other platforms if teamviewer fails. Virus Removal, Backup, Update, and training avaible.</p>
+                        <a class="button link" href="#">Try Ubuntu Desktop <i class="icon-chevron-right"></i></a>
+                    </div>
+                </div>
+                <div class="large-6 medium-6 medium-potrait-12 small-12 columns">
+                    <div class="feature-right mo-animate" data-animate="fadeInRight">
+                        <div class="no-shape"> <img class="img-border dark img-circle img-shadow gap" data-top="30" src="/img/sample/right-service.jpg" alt="Integrates Everywhere"> </div>
+                        <span class="heading-line"></span>
+                        <h3>Network troubleshooting and Server Administration.</h3>
+                        <p>If you are down, we can get you online quickly. Server Room installation, Access points, POS system, Manager Desktop, Network Printers and anything else connected to the network including mobile devices like iPhones and iPads for business and healthcare. Managed VPS services available using Ubuntu Server. Unfortunately we do not build Windows Servers only provide technical support on existing infrastructure. We build network infrastures around Ubuntu Server, helping cut the cost of licenses.</p>
+                        <a class="button link" href="#">Ubuntu Server for Business <i class="icon-chevron-right"></i></a>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+        <div class="clearfix"></div>
+
+        <section class="mo-content" style="background-color:#e79f0d; padding:20px 0;">
+            <div class="row">
+                <div class="large-12 columns mo-animate animated " style="">
+                    <div class="large-6 medium-6 columns mo-animate animated">
+
+                        <img src="/img/company-profile.png" alt="Company Profile" class="mo-animate" data-animate="bounceIn" />
+
+
+                    </div>
+                    <div class="large-6 medium-6 columns mo-animate animated " data-animate="fadeInDown">
+
+                        <div class="content-box-left company-content" style="padding: 40px 0;color: #fff;">
+                            <span class="heading-line"></span>
+                            <h3 style="color: #fff;">Customization Support.</h3>
+                            <p>Need help with your logo and wallpaper, colors, company details, and showing off your online space?.</p>
+                            <p>Always striving to make our clients sites sing, starting from mobile and tablet device user experience and design.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
+
+
+
+        <section class="mo-content" id="team">
+            
+            <div class="row gap" data-bottom="54">
+                <div class="large-4 medium-4 medium-potrait-12 columns mo-animate" data-animate="fadeInLeft">
+                    <span class="heading-line"></span>
+                    <h3>Techhelpstew</h3>
+                    <h2 class="maleo-color">is Standing By.</h2>
+                    <p>My name is Stewart, support engineer. Started supporting users as a child on DOS and Windows 3.1. Those days anything related to Information Technology was the responsibilty of the I.T. Guy. Fortunately for me I am naturally curious and enjoy staying up to date on all technology and we standards including programming langauges. I do enjoy helping and teaching others to take control of their computers using Ubuntu. Everything you see me do is done and built using Ubuntu.</p>
+                </div>
+                <div class="large-8 medium-8 medium-potrait-12 columns mo-animate" data-animate="fadeInUp"> <img src="img/sample/team.png" class="img-right img-team" alt="Stewart Yanez Techhelpstew"> </div>
+                <div class="large-12 columns">
+                    <hr class="separator-team">
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="large-12 column mo-animate" data-animate="fadeInDown">
+                    <span class="heading-line"></span>
+                    <h3>4 Steps to accomplish a project for your success </h3>
+                </div>
+                <div class="large-3 medium-6 columns mo-animate" data-animate="bounceIn">
+                    <div class="feature process">
+                        <div class="no-shape">
+                            <img src="img/sample/process-1.jpg" class="img-border dark img-circle img-shadow" alt="">
+                            <span class="process-number">1</span>
+                        </div>
+                        <p>Consultation and approved SOW from Client.</p>
+
+                    </div>
+                </div>
+                <div class="large-3 medium-6 columns mo-animate" data-animate="bounceIn" data-delay="300">
+                    <div class="feature process">
+                        <div class="no-shape">
+                            <img src="img/sample/process-3.jpg" class="img-border dark img-circle img-shadow" alt="">
+                            <span class="process-number">2</span>
+                        </div>
+                        <p> Web designing, development started.</p>
+
+                    </div>
+                </div>
+                <div class="large-3 medium-6 columns mo-animate" data-animate="bounceIn" data-delay="600">
+                    <div class="feature process">
+                        <div class="no-shape">
+                            <img src="img/sample/process-2.jpg" class="img-border dark img-circle img-shadow" alt="">
+                            <span class="process-number">3</span>
+                        </div>
+                        <p>Final submission and feedback from client’s end.</p>
+
+                    </div>
+                </div>
+                <div class="large-3 medium-6 columns mo-animate" data-animate="bounceIn" data-delay="900">
+                    <div class="feature process">
+                        <div class="no-shape">
+                            <img src="img/sample/process-4.jpg" class="img-border dark img-circle img-shadow" alt="">
+                            <span class="process-number">4</span>
+                        </div>
+                        
+                        <p>Web promotion, Google local listing and SEO.</p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="clearfix"></div>
+
+        <footer>
+            <div class="mo-contentfull content-bg" id="footer-bg">
+                <div class="rowfull">
+                    <div class="left-bg"></div>
+                    <div class="right-bg"></div>
+                </div>
+            </div>
+            <section class="mo-content social-bg-content">
+                <div class="row">
+                    <div class="large-3 medium-3 columns get-connect medium-potrait-hide small-hide">
+                        <h6>Get Connected</h6>
+                    </div>
+                    <div class="large-9 medium-9 columns medium-potrait-12 social-content">
+                        <ul class="social-icon cube">
+                            <li>
+                                <div class="front"><a class="social-facebook" href="https://www.facebook.com/techhelpstew" target="_blank"></a></div>
+                                <div class="back"><a class="social-facebook" href="https://www.facebook.com/techhelpstew" target="_blank"></a></div>
+                            </li>
+                            <li>
+                                <div class="front"><a class="social-twitter" href="https://twitter.com/techhelpstew" target="_blank"></a></div>
+                                <div class="back"><a class="social-twitter" href="https://twitter.com/techhelpstew" target="_blank"></a></div>
+                            </li>
+                            <li>
+                                <div class="front"><a class="social-google" href="https://plus.google.com/+StewY/" target="_blank"></a></div>
+                                <div class="back"><a class="social-google" href="https://plus.google.com/+StewY/" target="_blank"></a></div>
+                            </li>
+                            <li>
+                                <div class="front"><a class="social-linkedin" href="https://sr.linkedin.com/in/stewart-yanez-0777ba31" target="_blank"></a></div>
+                                <div class="back"><a class="social-linkedin" href="https://sr.linkedin.com/in/stewart-yanez-0777ba31" target="_blank"></a></div>
+                            </li>
+                            <li>
+                                <div class="front"><a class="social-pinterest" href="https://www.pinterest.com/stewartyanez/" target="_blank"></a></div>
+                                <div class="back"><a class="social-pinterest" href="https://www.pinterest.com/stewartyanez/" target="_blank"></a></div>
+                            </li>
+                            
+                            <li>
+                                <div class="front"><a class="social-instagram" href="#"></a></div>
+                                <div class="back"><a class="social-instagram" href="#"></a></div>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <section class="mo-content footer-content">
+                <div class="row">
+                    <div class="large-3 medium-3 medium-potrait-12 columns">
+                        <div class="footer-logo"> <a href="#"> 
+                            <img src="/img/logo-footer.png" alt="Logo" class="retina"> </a> 
+                            <span class="logo-text">AIT Support Services. LLC.</span>
+                        <span class="logo-text">&copy; 2016 techhelpstew.com. All rights reserved.</span> </div>
+                    </div>
+                    <div class="large-4 medium-4 medium-potrait-4 columns">
+                        <h6 class="heading-footer">Contact Us</h6>
+                        <ul class="list-type26">
+                            <li><a class="maleo-color" href="mailto:techhelpstew@gmail.com">techhelpstew@gmail.com</a></li>
+                            <li>
+                                Whittier, CA: 1-562-246-6304 (Google Voice)
+                            </li>
+                            
+
+                        </ul>
+                    </div>
+                    <div class="large-2 medium-2 medium-potrait-4 columns">
+                        <h6 class="heading-footer">Quick Links</h6>
+                        <ul class="list-type26">
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Portfolio</a></li>
+                            
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">FAQ</a></li>
+                            <li><a href="#">Disclaimer</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms of Service</a></li>
+                            <li><a href="#">Refund Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="large-3 medium-3 medium-potrait-4 columns">
+                        <h6 class="heading-footer">Address</h6>
+                        <p>
+                            AIT Support Services. LLC.<br />
+                            Stewart Yanez,<br />
+                            Support Engineer<br />
+                            4512 Workman Mill Rd,<br />
+                            Whittier, CA 90601<br />
+                        </p>
+                        <address>
+                           Whittier: 1-562-246-6304<br />
+                            
+                        </address>
+                    </div>
+                    <div class="scroll-top"> <a id="top" class="scroll"><i class="icon-chevron-up"></i></a> </div>
+                </div>
+            </section>
+        </footer>
+
+    </div>
+
+    <!-- javascript here -->
+    <script src="/js/jquery.min.js"></script>
+
+    
+    <script src="/js/jquery.smartmenus/jquery.smartmenus.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/jquery.fancybox.js"></script>
+    <script src="/js/jquery.fancybox-media.js"></script>
+    <script src="/js/jquery.waypoints.min.js"></script>
+    <script src="/js/jquery.retina.js"></script>
+
+
+
+
+    <!-- javascript plugin -->
+    <script src="/js/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+
+    <script src="/js/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- javascript core -->
+    <script src="/js/maleo.js"></script>
+    <script src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $('.banner').revolution({
+                delay: 8000,
+                startwidth: 1200,
+                startheight: 428,
+                hideThumbs: 1,
+                navigationType: "none",                  // bullet, thumb, none
+                navigationArrows: "solo",                // nexttobullets, solo (old name verticalcentered), none
+                navigationStyle: "navbar",               // round,square,navbar,round-old,square-old,navbar-old, or any from the list in the docu (choose between 50+ different item), custom
+                navigationHAlign: "center",              // Vertical Align top,center,bottom
+                navigationVAlign: "bottom",              // Horizontal Align left,center,right
+                navigationHOffset: 0,
+                navigationVOffset: 0,
+                soloArrowLeftHalign: "left",
+                soloArrowLeftValign: "center",
+                soloArrowLeftHOffset: 55,
+                soloArrowLeftVOffset: 0,
+                soloArrowRightHalign: "right",
+                soloArrowRightValign: "center",
+                soloArrowRightHOffset: 55,
+                soloArrowRightVOffset: 0,
+                touchenabled: "on",                      // Enable Swipe Function : on/off
+                onHoverStop: "off",                      // Stop Banner Timet at Hover on Slide on/off
+                stopAtSlide: -1,                         // Stop Timer if Slide "x" has been Reached. If stopAfterLoops set to 0, then it stops already in the first Loop at slide X which defined. -1 means do not stop at any slide. stopAfterLoops has no sinn in this case.
+                stopAfterLoops: -1,                      // Stop Timer if All slides has been played "x" times. IT will stop at THe slide which is defined via stopAtSlide:x, if set to -1 slide never stop automatic
+                hideCaptionAtLimit: 0,                   // It Defines if a caption should be shown under a Screen Resolution ( Basod on The Width of Browser)
+                hideAllCaptionAtLilmit: 0,               // Hide all The Captions if Width of Browser is less then this value
+                hideSliderAtLimit: 0,                    // Hide the whole slider, and stop also functions if Width of Browser is less than this value
+                shadow: 0,                               //0 = no Shadow, 1,2,3 = 3 Different Art of Shadows  (No Shadow in Fullwidth Version !)
+                fullWidth: "on"                          // Turns On or Off the Fullwidth Image Centering in FullWidth Modus
+            });
+        });
+
+        window.onload = function (e) {
+            var returl = document.getElementById("retURL");
+            returl.value = window.location;
+        }
+
+
+        //$('#go-to-top').each(function () {
+        //    $(this).click(function () {
+        //        $('html,body').animate({ scrollTop: 0 }, 'slow');
+        //        return false;
+        //    });
+        //});
+    </script>
+</body>
+</html>
